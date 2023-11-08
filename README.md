@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
